@@ -9,6 +9,6 @@ class Block < Formula
   sha256 "a73f857583dc04c406dfc50359b43b80c8795987686882f6f76d7d985ee04820"
 
   def install
-    bin.install "block.sh"
+    bin.install "block"
   end
 end
