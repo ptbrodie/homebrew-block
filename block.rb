@@ -6,8 +6,7 @@ class Block < Formula
   desc ""
   homepage ""
   url "https://github.com/ptbrodie/block/archive/v0.0.1.tar.gz"
-  sha256 "a73f857583dc04c406dfc50359b43b80c8795987686882f6f76d7d985ee04820"
-
+  sha256 "c21f406169960497befcb427ba41ad2e9e85d171d10cc538a1b54f902260a1d3"
   def install
     bin.install "block"
   end
